@@ -1,7 +1,7 @@
 #1.1
 #Demanar al usuari dos nombres, enter i flotant
 a = int(input("Numero enter: "))
-b = int(input("Numero flotant: "))
+b = float(input("Numero flotant: "))
 
 #Operacions aritmetiques
 suma = a + b
@@ -70,7 +70,7 @@ print("L'area es:", area_cercle(radi))
 #3.3
 #Funcio amb valor per defecte
 
-def suma(num1 + num2=5):
+def suma(num1, num2=5):
     return num1 + num2
 
 print("Suma amb un sol valor:", suma(10))
