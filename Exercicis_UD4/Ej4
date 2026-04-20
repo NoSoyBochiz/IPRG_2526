@@ -1,0 +1,15 @@
+import numpy as np
+
+vector = np.array([23, 25, 19, 30, 21])
+print(vector[0])
+matriu1 = np.array(
+    [[1,2,3],
+    [4,5,6]]
+)
+print(matriu1[1])
+matriu2 = np.array([
+    [[1,2],[3,4]],
+    [[5,6],[7,8]],
+    [[9,10],[11,12]]
+])
+print(matriu2[1,0,1])

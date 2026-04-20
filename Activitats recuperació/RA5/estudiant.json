@@ -1,0 +1,10 @@
+{
+    "nom": "Anna",
+    "edat": 19,
+    "nota": 7.5,
+    "assignatures": [
+        "Programaci\u00f3",
+        "Bases de Dades",
+        "valenci\u00e1"
+    ]
+}
